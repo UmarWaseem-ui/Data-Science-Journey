@@ -1,0 +1,2 @@
+S={}
+print(type(S))
