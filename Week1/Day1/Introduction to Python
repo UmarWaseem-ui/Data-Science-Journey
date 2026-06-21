@@ -1,0 +1,9 @@
+# Variables Example
+
+name = "Umar"
+age = 19
+cgpa = 3.5
+
+print("Name:", name)
+print("Age:", age)
+print("CGPA:", cgpa)
