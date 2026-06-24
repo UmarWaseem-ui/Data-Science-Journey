@@ -1,36 +1,49 @@
 # Data Science Journey 🚀
-Python basics and practice programs for my Data Science journey.
-This repository contains my learning journey in Data Science.
 
-## Week 1: Python Fundamentals
+Welcome to my Data Science learning repository.
 
-### Day 1
-- Variables
-- Data Types
-- Calculator Program
-
-### Day 2
-- Input
-- Operators
-- Conditions
-
-### Day 3
-- Loops
-
-### Day 4
-- Functions
-
-### Day 5
-- Lists and Dictionaries
-
-### Day 6
-- Mini Project
+This repository contains my progress, practice programs, and projects throughout my Data Science journey.
 
 ---
 
-Tools Used:
+## Topics Covered
+
+### Python Fundamentals
+- Variables
+- Data Types
+- Operators
+- Conditions
+- Loops
+- Functions
+- Lists
+- Dictionaries
+
+### Upcoming Topics
+- NumPy
+- Pandas
+- Data Visualization
+- Statistics
+- SQL
+- Machine Learning
+- Power BI
+
+---
+
+---
+
+## Tools Used
+
 - Python
 - VS Code
+- Jupyter Notebook
 - GitHub
 
-Author: Umar Waseem
+---
+
+## Goal
+
+To build strong foundations in Data Science and Machine Learning through consistent practice and projects.
+
+---
+
+Author: Muhammad Umar Waseem
