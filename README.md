@@ -29,8 +29,6 @@ This repository contains my progress, practice programs, and projects throughout
 
 ---
 
----
-
 ## Tools Used
 
 - Python
