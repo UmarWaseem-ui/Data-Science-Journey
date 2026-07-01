@@ -52,8 +52,8 @@ To understand the importance of data visualization in Data Science and learn the
 
 ## Files
 
-* matplotlib_basics.py
-* practice_problems.py
+* Matplotlib_Basics.py
+* Practice_Problems.py
 
 ---
 
